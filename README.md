@@ -7,13 +7,13 @@
      Then replace the placeholder below with: ![Banner](assets/banner.png) -->
 
 ```
-                                             ╔══════════════════════════════════════════════════════════════════════════╗
-                                             ║                                                                          ║
-                                             ║        🎬  TAMIL CINEMA DATASET ANALYSIS  🎬                            ║
-                                             ║        Kollywood · Data · Insights · Trends                              ║
-                                             ║                                                                          ║
-                                             ╚══════════════════════════════════════════════════════════════════════════╝
-                                             ```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║        🎬  TAMIL CINEMA DATASET ANALYSIS  🎬                            ║
+║        Kollywood · Data · Insights · Trends                              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 # 🎬 Tamil Cinema Dataset Analysis
 
